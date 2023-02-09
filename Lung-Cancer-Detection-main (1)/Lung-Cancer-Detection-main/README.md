@@ -4,9 +4,6 @@ This application aims to early detection of lung cancer to give patients the bes
 
 ![Lung-Cancer-Detection](https://user-images.githubusercontent.com/68781375/162584408-450580c0-3354-470b-a69c-180a19802fd4.jpg)
 
-## Contributors
-
-[Priyansh Shah](https://github.com/Priyansh42) ● [Harshil Rana](https://github.com/harshil311) ● [Ishan Shah](https://github.com/ishanshah1802) ● [Manan Shah](https://github.com/Manan2606)
 
 ## Dataset
 
@@ -24,6 +21,3 @@ Sample Dataset CSV for above images: [CSV File](https://github.com/Priyansh42/Lu
 
 https://user-images.githubusercontent.com/68781375/162584302-e0a58cfe-9a1d-45a1-816e-6bfadf45821a.mp4
 
-## Similar Projects
-
-Stroke Blood Clot Classification: https://github.com/Priyansh42/Stroke-Blood-Clot-Classification
